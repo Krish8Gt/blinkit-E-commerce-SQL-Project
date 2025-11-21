@@ -1,15 +1,15 @@
-Project Instructions: SQL Analysis on a Schema 
+## Project Instructions: SQL Analysis on a Schema 
 
-Objective
+### Objective
 
 The objective of this project is to perform SQL queries on a schema, demonstrating your understanding of SQL concepts and data analysis techniques. You will write and execute queries to extract meaningful insights from the data and present your findings.
 
-Steps and Guidelines
-1.	Set Up Your Environment
+### Steps and Guidelines
+**1.	Set Up Your Environment**
 
-  o	Ensure you have access to a SQL database (MySQL).
+o	Ensure you have access to a SQL database (MySQL).
 
-  o	Download and set up a schema. 
+o	Download and set up a schema. 
 
 2.	Project Setup
 
