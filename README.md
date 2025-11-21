@@ -13,49 +13,49 @@ Download and set up a schema.
 
 **2.	Project Setup**
 
-o	Create a new directory for your project.
+Create a new directory for your project.
 
-o	Use a SQL script for your analysis.
+Use a SQL script for your analysis.
 
-o	Create a README file that briefly describes the dataset and the steps you plan to take in your analysis.
+Create a README file that briefly describes the dataset and the steps you plan to take in your analysis.
 
 **3.	Data Import and Schema Overview**
 
-o	Import the data into your SQL database.
+Import the data into your SQL database.
 
-o	Provide an overview of the schema with ER diagram.
+Provide an overview of the schema with ER diagram.
 
-o	Use DESCRIBE or SHOW COLUMNS commands to understand the structure of each table.
+Use DESCRIBE or SHOW COLUMNS commands to understand the structure of each table.
 
 **4.	Data Analysis Using SQL**
 
-o	Descriptive Statistics:
+**Descriptive Statistics:**
 
-o	Write queries to calculate basic statistics such as count, sum, average, minimum, and maximum for numerical columns.
+Write queries to calculate basic statistics such as count, sum, average, minimum, and maximum for numerical columns.
 
-o	Example: Calculate the total sales, average order value, and total number of transactions.
+Example: Calculate the total sales, average order value, and total number of transactions.
 
-o	Data Cleaning:
+Data Cleaning:
 
-o	Write queries to identify and handle missing or inconsistent data.
+Write queries to identify and handle missing or inconsistent data.
 
-o	Example: Find rows with NULL values in important columns and decide how to handle them (e.g., filling, removing).
+Example: Find rows with NULL values in important columns and decide how to handle them (e.g., filling, removing).
 
-o	Aggregation and Grouping:
+**Aggregation and Grouping:**
 
-o	Use GROUP BY to aggregate data by different dimensions.
+Use GROUP BY to aggregate data by different dimensions.
 
-o	Example: Calculate total sales by product category, region, or time period.
+Example: Calculate total sales by product category, region, or time period.
 
-o	Joins and Relationships:
+**Joins and Relationships:**
 
-o	Write queries to join tables to extract meaningful insights.
+Write queries to join tables to extract meaningful insights.
 
-o	Example: Join the sales with the product table to get product names and categories.
+Example: Join the sales with the product table to get product names and categories.
 
-o	Subqueries and CTEs:
+**Subqueries and CTEs:**
 
-o	Use subqueries and Common Table Expressions (CTEs) to write complex queries.
+Use subqueries and Common Table Expressions (CTEs) to write complex queries.
 
-o	Example: Use a CTE to calculate the monthly sales and then find the month with the highest sales.
+Example: Use a CTE to calculate the monthly sales and then find the month with the highest sales.
 
