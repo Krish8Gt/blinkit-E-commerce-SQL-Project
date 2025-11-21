@@ -7,9 +7,9 @@ The objective of this project is to perform SQL queries on a schema, demonstrati
 ### Steps and Guidelines
 **1.	Set Up Your Environment**
 
-o	Ensure you have access to a SQL database (MySQL).
+Ensure you have access to a SQL database (MySQL).
 
-o	Download and set up a schema. 
+Download and set up a schema. 
 
 **2.	Project Setup**
 
